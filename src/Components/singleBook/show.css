@@ -1,0 +1,53 @@
+.text {
+    color: black;
+}
+
+.main {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 90px;
+}
+
+.img_size {
+    width: 450px;
+}
+
+.right {
+    margin-left: 40px;
+}
+
+.book_name {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.book_authors {
+    font-size: 25px;
+    margin-top: 20px;
+    color:#2368ee;
+    text-decoration: underline;
+}
+
+.description {
+    margin-top: 40px;
+    font-size: 18px;
+    line-height: 1.4;
+}
+
+.price {
+    margin-top: 100px;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.button {
+    background-color: #447de5;
+    padding: 15px 85px;
+    border:#447de5;
+    color: white;
+    font-size: 20px;
+
+    cursor: pointer;
+}

@@ -1,0 +1,22 @@
+.filter {
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+
+.filter_btn {
+    padding: 10px 60px;
+    font-size: 17px;
+    border: gray;
+    background-color: aliceblue;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.filter_btn:hover {
+    transition: .6s;
+    background-color: #ece4ad;
+}
+

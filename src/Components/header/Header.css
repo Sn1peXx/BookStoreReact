@@ -1,0 +1,31 @@
+.header {
+    height: 100px;
+    width: 100%;
+}
+
+.header_wrapper {
+    display: flex;
+    align-items: center
+}
+
+.logo_img {
+    height: 120px;
+    padding-left: 40px;
+    padding-right: 70px;
+}
+
+.input {
+    margin: 0 auto;
+    position: relative;
+    left: -50px;
+    padding-left: 20px;
+    font-size: 20px;
+    width: 600px;
+    height: 45px;
+    color: #212529;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #bdbdbd;
+    border-radius: 0.25rem;
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}

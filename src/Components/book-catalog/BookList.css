@@ -1,0 +1,12 @@
+.books {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.empty {
+    font-size: 30px;
+    font-weight: 500;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
